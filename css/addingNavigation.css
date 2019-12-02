@@ -1,0 +1,14 @@
+
+
+
+body{
+    padding: 20px;
+    color: #5a5a5a;
+}
+.navbar-wraper{
+    position: absolute;
+/*    top: 0;*/
+    right: 0;
+    left: 0;
+    
+}
